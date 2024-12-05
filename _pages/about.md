@@ -6,7 +6,7 @@ subtitle: PhD in Computer Science, Sapienza University of Rome
 
 profile:
   align: right
-  image: irene_foto_ufficiale.jpg 
+  image: irene_foto_ufficiale.jpg
   image_circular: false
   more_info: >
     <p>Rome, Italy</p>

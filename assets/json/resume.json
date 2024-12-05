@@ -63,9 +63,7 @@
       "startDate": "2023-03",
       "endDate": "2023-08",
       "summary": "Research topic: vector quantile regression, a statistical inference method based on optimal transport",
-      "highlights": [
-        "PhD Advisor: Prof. Alex Bronstein"
-      ]
+      "highlights": ["PhD Advisor: Prof. Alex Bronstein"]
     },
     {
       "institution": "Sapienza University of Rome",
@@ -73,10 +71,7 @@
       "studyType": "Master of Science",
       "startDate": "2017-09",
       "endDate": "2020-01",
-      "highlights": [
-        "Thesis: Hamiltonian Spectrum Alignment and Applications to Partial Functional Correspondence",
-        "Advisor: Prof. Emanuele Rodolà"
-      ]
+      "highlights": ["Thesis: Hamiltonian Spectrum Alignment and Applications to Partial Functional Correspondence", "Advisor: Prof. Emanuele Rodolà"]
     },
     {
       "institution": "Sapienza University of Rome",
