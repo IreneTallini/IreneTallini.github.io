@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://irenetallini.github.io/sitemap.xml
+Sitemap: https://IreneTallini.github.io/sitemap.xml
