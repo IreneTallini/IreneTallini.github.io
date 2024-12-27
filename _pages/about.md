@@ -6,7 +6,7 @@ subtitle: PhD in Computer Science, Sapienza University of Rome
 
 profile:
   align: right
-  image: foto_profilo_3.jpg
+  image: foto_profilo_4.jpg
   image_circular: false
   more_info: >
     <p>Rome, Italy</p>
