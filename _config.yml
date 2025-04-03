@@ -6,7 +6,8 @@ title: Irene Tallini # the website title (if blank, full name will be used inste
 first_name: Irene
 middle_name:
 last_name: Tallini
-email: tallini@di.uniroma1.it
+# email: tallini@di.uniroma1.it
+email: irene.tallini.ml@gmail.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Machine Learning Researcher based in Rome, Italy. Open to relocation.
 footer_text: >

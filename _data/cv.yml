@@ -4,7 +4,8 @@
     - name: Full Name
       value: Irene Tallini
     - name: Email
-      value: tallini@di.uniroma1.it
+      # value: tallini@di.uniroma1.it
+      value: irene.tallini.ml@gmail.com
     - name: Location
       value: Rome, Italy (open to relocation)
     - name: GitHub
